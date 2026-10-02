@@ -55,13 +55,6 @@ npm run dev
 
 Acesse o endereço exibido no terminal (por padrão `http://localhost:5173`).
 
-Build de produção:
-
-```bash
-npm run build
-npm run preview
-```
-
 ## Estrutura
 
 ```
